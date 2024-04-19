@@ -1,4 +1,4 @@
-# jm-product-card
+# jmartinez-product-card
 
 Testing package to deploy to NPM
 
@@ -6,7 +6,7 @@ Testing package to deploy to NPM
 
 ## Example
 ````
-import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'jm-product-card';
+import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'jmartinez-product-card';
 ```
 
 ```

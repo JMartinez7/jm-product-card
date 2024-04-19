@@ -21,7 +21,6 @@ export const ProductCard = ({ children, product, className, style, onChange, val
 
   const { counter, increaseBy, maxCount, isMaxCountReached, reset } = useProduct({ onChange, product, value, initialValues });
  
-
   return (
     <Provider value={{
       counter,
